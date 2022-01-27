@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishore-chandrasekar
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in MERN stack development
+- 🌱 I’m a full stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...karthiikkishore@gmail.com
 
